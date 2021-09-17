@@ -70,7 +70,7 @@ section h1{
 
 }
 .top-player div{
-    width: 400px;
+    width: 300px;
     flex-grow: 1;
     margin: 10px 0;
 }
@@ -106,15 +106,15 @@ section h1{
     display:flex;
     align-items: center;
     flex-direction: column;
-    width: 400px;
+    width: 300px;
     flex-grow: 1;
     margin: 10px 0;
     
 }
 
 .top-course div img{
-    width:  380px;
-    height: 300px;
+    width:  280px;
+    height: 280px;
 }
 @media (max-width: 480px){
     nav{
